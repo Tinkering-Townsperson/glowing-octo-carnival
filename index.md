@@ -1,6 +1,8 @@
-# This is an <h1> header, which is the largest
-## This is an <h2> header.
-### This is an <h3> header.
-#### This is an <h4> header.
-##### This is an <h5> header.
-###### And finally, this is an <h6> header.
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header.
+### This is an `<h3>` header.
+#### This is an `<h4>` header.
+##### This is an `<h5>` header.
+###### And finally, this is an `<h6>` header.
+
+![Image of PrivateInvestoCat](https://octodex.github.com/images/privateinvestocat.jpg)
