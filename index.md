@@ -6,3 +6,32 @@
 ###### And finally, this is an `<h6>` header.
 
 ![Image of PrivateInvestoCat](https://octodex.github.com/images/privateinvestocat.jpg)
+
+`humans.rb`
+```ruby
+class Human
+	# TODO: Insert code
+end
+```
+
+`index.html`
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="styles.css">
+		<title>Welcome to my website!</title>
+	</head>
+	<body>
+		<!-- TODO: Finish webpage -->
+	</body>
+</html>
+```
+
+`styles.css`
+```css
+body {
+	background-color: #123456;
+}
+```
