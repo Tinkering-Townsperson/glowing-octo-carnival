@@ -35,3 +35,7 @@ body {
 	background-color: #123456;
 }
 ```
+
+- [ ] Finish this course
+- [ ] Get famous
+- [ ] Take over the world!!!
